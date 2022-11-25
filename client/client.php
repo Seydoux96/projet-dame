@@ -25,7 +25,7 @@
                                         <td><?= $client->representant ?></td>
                                         <td><?= $client->telephone ?></td>
                                         <td>
-                                            <a href="#"><i class="fa fa-pen-to-square"></i></a>
+                                            <a href="modif_client.php?id=<?= $client->id_client ?>"><i class="fa fa-pen-to-square"></i></a>
                                             <p style="color: white;">&</p>
                                             <a href="#"><i class="fa fa-trash"></i></a>
                                         </td>
@@ -59,7 +59,7 @@
                             <span>Téléphone</span>
                             <i></i>
                         </div><br>
-                        <button class="btn btn-darker">Ajouter</button>
+                        <button class="btn btn-darker" name="ajout">Ajouter</button>
                     </form>
                 </div>
             </div>
