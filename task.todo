@@ -1,0 +1,27 @@
+✔ Installation de Golang @done(23-11-23 12:30)
+
+✔ Mise en place du projet @done(23-11-23 12:30)
+    ☐ Création structure de dossier
+
+✔ Serveur http @done(23-11-23 12:32)
+    ☐ avec le pkg net/http
+
+✔ Base de données @done(23-11-23 12:32)
+    ☐ SQLite pour celui-ci
+
+✔ Modèles de données @done(23-11-23 12:32)
+
+Route et gestionnaires
+    Pour gérer produit panier client facture
+
+Gestion des sessions
+
+Paiement
+
+Interface ou template
+
+Sécurité
+
+Tests
+
+Déploiement
